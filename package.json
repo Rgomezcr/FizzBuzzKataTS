@@ -1,0 +1,14 @@
+{
+  "name": "fizzbuzzkata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-spec-reporter": "^7.0.0"
+  }
+}
